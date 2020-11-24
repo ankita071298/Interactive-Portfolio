@@ -1,0 +1,160 @@
+body
+  {
+	margin:0;
+	text-align:center;
+  }
+.tb1
+  {
+	position:absolute;
+	right:100px;
+	top:30px;
+  }
+.tb2
+  {
+	width:100%;
+  }
+
+.b1
+  {
+	border:none;
+	color:purple;
+	background-color:#ddf3f5;
+	font-size:15px;
+	padding:10px;
+	margin:5px;
+	cursor:cell;
+  }
+.b2
+  {
+	color:purple;
+	background-color:#ddf3f5;
+	font-size:15px;
+	margin:30px;
+	padding:10px 20px;
+	font-decoration:none;
+	cursor:cell;
+	border-radius:10px;
+	text-decoration:none;
+	background:-webkit-linear-gradient(top,#ddf3f5,#58b4ae);
+	background:-moz-linear-gradient(top,#ddf3f5,#58b4ae);
+	background:-ms-linear-gradient(top,#ddf3f5,#58b4ae);
+	background:-o-linear-gradient(top,#ddf3f5,#58b4ae);
+	background:linear-gradient(to bottom,#ddf3f5,#58b4ae);
+  }
+.b2:hover
+  {
+	text-decoration:none;
+	background-color:#58b4ae;
+	background:-webkit-linear-gradient(top,#58b4ae,#ddf3f5);
+	background:-moz-linear-gradient(top,#58b4ae,#ddf3f5);
+	background:-ms-linear-gradient(top,#58b4ae,#ddf3f5);
+	background:-o-linear-gradient(top,#58b4ae,#ddf3f5);
+	background:linear-gradient(to bottom,#58b4ae,#ddf3f5);
+  }
+.b3
+  {
+	border:none;
+	color:purple;
+	background-color:#ddf3f5;
+	font-size:15px;
+	margin:10px;
+	cursor:cell;
+  }
+p
+  {
+	font-family: 'Dancing Script', cursive;
+	font-size:20px;
+	color:green;
+  }
+h1
+  {
+	font-family: 'Great Vibes', cursive;
+	color:#127681;
+	margin:10px;
+	font-size:60px;
+  }
+h2
+  {
+	font-family: 'Shadows Into Light', cursive;
+	font-size:50px;
+	color:gold;
+	margin:10px;
+  }
+h3
+  {
+	font-family: 'Kaushan Script', cursive;
+	color:maroon;
+	font-size:40px;
+  }
+.header
+  {
+	background-color:#ddf3f5;
+	position:relative;
+	padding:100px;	
+  }
+.footer
+  {
+	background-color:#ddf3f5;
+	padding:5px;
+  }
+.top-cloud
+  {
+	
+	height:200px;
+	width:200px;
+	position:absolute;
+	top:50px;
+	right:350px;
+  }
+
+.bottom-cloud
+  {
+	height:150px;
+	width:150px;
+	position:absolute;
+	left:400px;
+	top:150px;
+  }
+.hd1
+  {
+	text-align:left;
+  }
+.hd2
+  {
+	text-align:right;
+  }
+
+.top-girl
+  {
+	position:absolute;
+	top:30px;
+	left:100px;
+	height:200px;
+	width:200px;
+  }
+.middle-girl
+  {
+	height:250px;
+	width:200px;
+	float:left;
+	margin:auto 50px;
+  }
+.bottom-girl
+  {
+	height:250px;
+	width:250px;
+	float:right;
+	margin:auto 50px;
+  }
+.giphy1
+  {
+	height:300px;
+	width:350px;
+  }
+.giphy2
+  {
+	position:absolute;
+	right:50px;
+	width:200px;
+	height:200px;
+  }
